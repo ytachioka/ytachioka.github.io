@@ -1,7 +1,7 @@
-Yuuki Tachioka, Ph.D.
-Senior Researcher | LLMs, Multimodal AI, Recommendation, Knowledge-Augmented Systems, and Physics-Constrained AI
+# Yuuki Tachioka, Ph.D.
+- Senior Researcher | LLMs, Multimodal AI, Recommendation, Knowledge-Augmented Systems, and Physics-Constrained AI
 Tokyo, Japan
-Website: http://tachioka.gokenin.com/index_en.html
+- Website: http://ytachioka.github.io
 
 ## Professional Summary
 
@@ -206,7 +206,7 @@ November 2012 – February 2013
 * Senior member of the Information Processing Society of Japan.
 * Served as a reviewer for journals including IEEE/ACM Transactions on Audio, Speech, and Language Processing, Speech Communication, and EURASIP Journal.
 * Served as a reviewer for international conferences including ICASSP, ASRU, SLT, INTERSPEECH, and APSIPA.
-* Full publication list available at: http://tachioka.gokenin.com/index_en.html
+* Full publication list available at: http://ytachioka.github.io/pub_en.html
 
 ## Technical Skills
 
