@@ -1,0 +1,60 @@
+.red {
+   color: #f3112f;
+}
+
+@media screen and (max-width: 480px) {
+    img[src="entrance.JPG"] {display:none ;}
+}
+
+@media screen and (min-width: 481px) {
+    *.ls_normal { line-height: 150%; }
+    *.ls_double { line-height: 200%; }
+    *.l_margin  { margin-left: 20px; }
+    *.scroll { width: 700px; height: 50px; overflow: scroll; }
+
+    .roundabout-holder {
+        list-style: none;
+        width: 90%;
+        height: 50em;
+        margin: 1em auto;
+     }
+     .roundabout-moveable-item {
+        height: 50em;
+        width: 45em;
+        border: 1px dotted #999;
+        background-color: #f3f3f3;
+        font-size: 1em;
+        cursor: pointer;
+     }
+     .roundabout-in-focus {
+        cursor: auto;
+     }
+  
+}
+
+.googleCal iframe {
+   width: 100%;
+   height: 400px;
+   max-width: 100%; /* はみ出し防止 */
+   display: block;
+}
+
+@media all and (min-width: 768px) {
+   .googleCal iframe {
+      height: 600px;
+   }
+}
+
+/* モバイル（480px以下）は線あり */
+@media screen and (max-width: 480px) {
+  table.l_margin {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  table.l_margin td {
+    border: 1px solid #ccc;
+    padding: 6px 8px;
+    vertical-align: top;
+    font-size: 14px;
+  }
+}
